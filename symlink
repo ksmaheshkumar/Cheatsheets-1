@@ -1,0 +1,2 @@
+ln -s [origin] [destination]
+# Note, if [origin] is folder, [destination] will be file (aka, no /!)
