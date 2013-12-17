@@ -1,0 +1,5 @@
+# Generate scaffold
+rails generate scaffold [name] [name1:type] [name2:type] ...
+
+# Update database
+bundle exec rake db:migrate
