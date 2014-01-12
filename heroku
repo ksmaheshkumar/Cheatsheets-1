@@ -1,0 +1,10 @@
+# Create Heroku app
+heroku create
+
+# Pushing to git/Heroku
+git push
+git push heroku
+heroku run rake db:migrate
+
+# Something go wrong? Logs!
+heroku logs
