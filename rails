@@ -1,6 +1,9 @@
 # Create new Rails project
 rails new [name]
 
+# Start rails server
+rails server
+
 # Generate scaffold
 rails generate scaffold [name] [name1:type] [name2:type] ...
 
